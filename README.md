@@ -57,6 +57,8 @@
     
     ```php artisan serve```
 
+NOTE : JANGAN LUPA MENJALANKAN XAMPP KETIKA MENJALAN PROJECT
+
 
 
    
