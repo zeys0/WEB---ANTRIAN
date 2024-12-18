@@ -14,7 +14,7 @@
    
 2. MASUK KE DIRECTORY REPO YG TELAH DICLONE
    
-3. JALANKAN PERINTAH BERIKUT PADA POWERSHELL / CMD (Pastikan sudah menginstall dan konfigurasi composer pada perangkat yg digunakan, jika belum install terlebih dahulu)
+3. JALANKAN PERINTAH BERIKUT PADA POWERSHELL / CMD UNTUK MENGINSTALL DEPEDENCY YG DIBUTUHKAN (Pastikan sudah menginstall dan konfigurasi composer pada perangkat yg digunakan, jika belum install terlebih dahulu)
    
    ```composer install```
    
